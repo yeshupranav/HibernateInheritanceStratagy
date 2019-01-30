@@ -1,0 +1,2 @@
+# HibernateInheritanceStratagy
+HibernateProjectis Created
